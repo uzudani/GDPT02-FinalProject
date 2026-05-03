@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 699830d341a33ec42abe5502c07949cf, type: 3}
+  m_Name: BasePistol
+  m_EditorClassIdentifier: 
+  _weaponName: BASE PISTOL
+  _damage: 25
+  _fireRate: 1
+  _targetChannel: 2
+  _useSound: {fileID: 8300000, guid: 14a1e295fa9c0864d8da95332f87dc12, type: 3}
+  _soundVolume: 0.251
+  _loopSound: 0
+  _bulletSpeed: 20
+  _lifetime: 3
+  _bulletPrefab: {fileID: 1893466800506979561, guid: 87c3d86f7f4ae984c83db2ac9507f96c,
+    type: 3}
